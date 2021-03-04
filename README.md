@@ -43,7 +43,7 @@
 
 ## DEPLOYMENT
 
-#### Deployment is done using [deploy](https://github.com/Gladiator07/Harvestify/tree/deploy) branch
+#### Deployment is done using [deploy](https://github.com/alamjane/Harvest) branch
 #### This website is deployed at [Heroku](https://www.heroku.com/)
 #### You can access it [here](https://harvestify.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
