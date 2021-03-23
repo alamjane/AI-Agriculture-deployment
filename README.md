@@ -37,8 +37,8 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
 
-<<<<<<< HEAD
-=======
+
+
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 >>>>>>> c4f8810b21f069df1d23b2012e9afd54436a9b41
 >>>>>>> ab23ace85dee8a540db6c446e7152c18138235c7
